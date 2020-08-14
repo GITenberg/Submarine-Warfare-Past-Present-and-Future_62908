@@ -1,5 +1,5 @@
 _repo: Submarine-Warfare-Past-Present-and-Future_62908
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introduction:
     agent_name: Fremantle, E. R. Sir
@@ -16,12 +16,17 @@ contributor:
     gutenberg_agent_id: '52183'
     url: http://www.gutenberg.org/2009/agents/52183
     wikipedia: https://en.wikipedia.org/wiki/Edward_Reed_(naval_architect)
+covers:
+- cover_type: archival
+  image_path: 62908-h/images/cover.jpg
 creator:
   author:
     agent_name: Fyfe, Herbert C.
     gutenberg_agent_id: '52181'
     url: http://www.gutenberg.org/2009/agents/52181
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62908#Submarine-Warfare-Past-Present-and-Future
 gutenberg_issued: '2020-08-12'
 gutenberg_type: Text
 identifiers:
