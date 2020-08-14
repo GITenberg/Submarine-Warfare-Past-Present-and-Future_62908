@@ -1,0 +1,38 @@
+_repo: Submarine-Warfare-Past-Present-and-Future_62908
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Fremantle, E. R. Sir
+    alias: Fremantle, Edmund Robert Sir
+    birthdate: 1836
+    deathdate: 1929
+    gutenberg_agent_id: '52182'
+    url: http://www.gutenberg.org/2009/agents/52182
+    wikipedia: https://en.wikipedia.org/wiki/Edmund_Fremantle
+  contributor:
+    agent_name: Reed, Edward J. (Edward James), Sir
+    birthdate: 1830
+    deathdate: 1906
+    gutenberg_agent_id: '52183'
+    url: http://www.gutenberg.org/2009/agents/52183
+    wikipedia: https://en.wikipedia.org/wiki/Edward_Reed_(naval_architect)
+creator:
+  author:
+    agent_name: Fyfe, Herbert C.
+    gutenberg_agent_id: '52181'
+    url: http://www.gutenberg.org/2009/agents/52181
+description: ''
+gutenberg_issued: '2020-08-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62908'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Submarine warfare'
+- !lcc 'VM'
+- GITenberg
+title: Submarine Warfare, Past, Present, and Future
+url: http://www.gutenberg.org/ebooks/62908
